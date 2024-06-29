@@ -44,7 +44,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
-    plink:"koo",
+    plink:"https://github.com/dulmiwitharana/Portfolio.git",
     technologies: ["HTML", "TailwindCSS", "React"],
   },
   {
