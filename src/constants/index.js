@@ -4,7 +4,8 @@ import project3 from "../assets/assets/projects/project-3.jpeg";
 import project4 from "../assets/assets/projects/project-4.jpeg";
 import project5 from "../assets/assets/projects/project-5.jpeg";
 import project6 from "../assets/assets/projects/food.jpeg";
-import project7 from "../assets/assets/projects/project-7.jpg"; // Ensure this path is correct
+import project7 from "../assets/assets/projects/project-7.jpg"; 
+
 
 
 export const HERO_CONTENT = `Aspiring and highly motivated IT undergraduate trainee pursuing a degree in Information Technology, with a strong foundation in web development, mobile app development, and database management. Adept at problem-solving, collaborating in team environments, and eager to apply theoretical knowledge to real-world challenges. Passionate about continuously learning new technologies and improving technical skills to contribute effectively to innovative projects. Seeking an opportunity to leverage academic knowledge and hands-on experience in a dynamic and growth-oriented organization.`;
