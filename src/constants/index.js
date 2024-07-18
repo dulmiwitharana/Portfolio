@@ -63,7 +63,7 @@ export const PROJECTS = [
     image: project6,
     description:
       "Developed the TasteTreasures food recipe system enabling users to register, log in, add recipes and saving and viewing favorite recipes.",
-    plink:"https://github.com/dulmiwitharana/Food-Recipe-Website.git",
+    plink:"https://github.com/dulmiwitharana/Recipe-Web-App-MERN.git",
     technologies: ["MongoDB", "Express.js", "Node.js", "React.js"],
   },
   {
